@@ -84,7 +84,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/pealbert/"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:pealbert@email.cz"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
