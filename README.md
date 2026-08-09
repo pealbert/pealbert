@@ -1,9 +1,43 @@
-# Tech Stack
+## Tech Stack
 
-| | | | |
-| :---: | :---: | :---: | :---: |
-| <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40"/><br/>**React** | <img src="https://cdn.simpleicons.org/vite/646CFF" width="40" height="40"/><br/>**Vite** | <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40"/><br/>**TypeScript** | <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40"/><br/>**JavaScript** |
-| <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40"/><br/>**PostgreSQL** | <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40"/><br/>**Python** | <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" height="40"/><br/>**Power BI** | <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" height="40"/><br/>**Excel** |
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br/>
+      <b>React</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="40"/><br/>
+      <b>Vite</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>
+      <b>TypeScript</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>
+      <b>JavaScript</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br/>
+      <b>PostgreSQL</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br/>
+      <b>Python</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/><br/>
+      <b>Power BI</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="40" height="40"/><br/>
+      <b>Excel</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
