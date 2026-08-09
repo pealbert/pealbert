@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Albert 👋 (`@pealbert`)
 
-<!--
-**pealbert/pealbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer and data enthusiast focused on building interactive web applications and turning complex data into actionable insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+| Category | Technology | Usage & Focus |
+| :--- | :--- | :--- |
+| **Languages** | `TypeScript` `JavaScript` `Python` | Core logic, typed frontend code, and data scripting |
+| **Frontend** | `React` `Vite` | Building fast, modern, component-driven web interfaces |
+| **Databases** | `PostgreSQL` | Relational database architecture & complex queries |
+| **Data & BI** | `Power BI` `Excel` | Data modeling, storytelling, and interactive dashboards |
+
+---
+
+### 📊 Areas of Focus
+* 🌐 **Web Development:** Modern React applications powered by Vite and TypeScript.
+* 📈 **Data Analytics:** Transforming raw data into insights using SQL, Python, and Power BI.
+
+---
+
+<p align="center">
+  <i>"Simplicity is prerequisite for reliability."</i>
+</p>
