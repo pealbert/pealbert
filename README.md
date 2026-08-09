@@ -1,8 +1,9 @@
 # Tech Stack
 
 | | | | |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br/>**React** | <img src="https://user-images.githubusercontent.com/25181517/117206454-94b2f180-ad9f-11eb-8c9d-e5df04a03ae1.png" width="40" height="40"/><br/>**Vite** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>**TypeScript** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>**JavaScript** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br/>**PostgreSQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br/>**Python** | <img src="https://raw.githubusercontent.com/powerbi/powerbi-docs/master/powerbi-docs/images/power-bi-icon.png" width="40" height="40"/><br/>**Power BI** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="40" height="40"/><br/>**Excel** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40"/><br/>**React** | <img src="https://cdn.simpleicons.org/vite/646CFF" width="40" height="40"/><br/>**Vite** | <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40"/><br/>**TypeScript** | <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40"/><br/>**JavaScript** |
+| <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40"/><br/>**PostgreSQL** | <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40"/><br/>**Python** | <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" height="40"/><br/>**Power BI** | <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" height="40"/><br/>**Excel** |
 
 ---
 
