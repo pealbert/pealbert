@@ -1,6 +1,6 @@
 # Data Analyst
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB1d2NkNDloendvdHVkMTU3ZjN0a2d2dmlnaXh4ZTR4dHpqZnUzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o3chaFJ6NfzM5Tp1Tq/giphy.gif" alt="👋 Hi there! I'm albert" title="👋 Hi there! I'm albert"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB1d2NkNDloendvdHVkMTU3ZjN0a2d2dmlnaXh4ZTR4dHpqZnUzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o3chaFJ6NfzM5Tp1Tq/giphy.gif" alt="👋 Hi there! I'm Albert" title="👋 Hi there! I'm Albert"/>
 
 ---
 
