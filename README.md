@@ -77,12 +77,6 @@
 
 ---
 
-<a href="https://github.com/pealbert">
-  <img src="https://streak-stats.demolab.com?user=pealbert&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
-</a>
-
----
-
 <p>
   <a href="https://www.instagram.com/pealberte/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
