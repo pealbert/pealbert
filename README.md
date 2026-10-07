@@ -28,6 +28,15 @@
   </tr>
 
   <tr>
+   <td align="center" width="96">
+      <img
+        src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/fabric/fabric.svg"
+        width="40"
+        height="40"
+        alt="Microsoft Fabric"
+      />
+      <br>Fabric
+    </td>
     <td align="center" width="96">
       <img src="https://images.seeklogo.com/logo-png/43/2/power-bi-icon-logo-png_seeklogo-439962.png" width="48" height="48" alt="Power BI" />
       <br>Power BI
@@ -86,6 +95,10 @@
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/biome/60A5FA" width="48" height="48" alt="Biome" />
       <br>Biome
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
   </tr>
 </table>
