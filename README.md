@@ -33,7 +33,7 @@
 
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn-icons-png.flaticon.com/128/888/888850.png" width="48" height="48" alt="Excel" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-excel/default.svg" width="40" height="40" alt="Excel" />
       <br>Excel
     </td>
     <td align="center" width="96">
