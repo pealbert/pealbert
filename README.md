@@ -14,36 +14,39 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=96&id=xSkewUSqtErH&format=png" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
       <img src="https://img.icons8.com/?size=96&id=aR9CXyMagKIS&format=png" width="48" height="48" alt="NumPy" />
       <br>NumPy
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+      <img src="https://img.icons8.com/?size=96&id=xSkewUSqtErH&format=png" width="48" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <img src="https://devicons.io/devicons/icons/seaborn-icon.svg" width="48" height="48" alt="Seaborn" />
+      <br>Seaborn
     </td>
   </tr>
 
   <tr>
-   <td align="center" width="96">
-      <img
-        src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/fabric/fabric.svg"
-        width="40"
-        height="40"
-        alt="Microsoft Fabric"
-      />
-      <br>Fabric
+    <td align="center" width="96">
+      <img src="https://cdn-icons-png.flaticon.com/128/888/888850.png" width="48" height="48" alt="Excel" />
+      <br>Excel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <img src="https://images.seeklogo.com/logo-png/43/2/power-bi-icon-logo-png_seeklogo-439962.png" width="48" height="48" alt="Power BI" />
       <br>Power BI
     </td>
     <td align="center" width="96">
-      <img src="https://cdn-icons-png.flaticon.com/128/888/888850.png" width="48" height="48" alt="Excel" />
-      <br>Excel
+      <img src="https://raw.githubusercontent.com/DamoBird365/microsoft-cloud-icons/master/icons/fabric/fabric.svg" width="40" height="40" alt="Microsoft Fabric" />
+      <br>Fabric
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
